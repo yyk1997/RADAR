@@ -80,7 +80,7 @@ name1 = 'pretrain_model_100_epochs_p_1_epoch500vs1000_0.5.pth'
 
 
 MAX_GRAD_NORM_raw = 1.0
-Noise_Multi_raw = 0.5
+Noise_Multi_raw = 1.0
 DELTA = 1e-5
 filter_percent_begin = 0.1
 filter_percent = 0.1
